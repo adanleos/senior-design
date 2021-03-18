@@ -21,9 +21,9 @@
 
 #define delayTime 500
 
-#define xLimitSwitchPin 22
-#define yLimitSwitchPin 15
-#define z0LimitSwitchPin 23
-#define zLimitSwitchPin 14
+#define xLimitSwitchPin 20
+#define yLimitSwitchPin 21
+#define z0LimitSwitchPin 22
+#define zLimitSwitchPin 23
 
-#define laserPin 12
+# #define laserPin 12
